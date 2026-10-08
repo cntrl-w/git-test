@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/qikehao/Documents/Code Chunks/gittest/adder'
+relocations:     []
+...
